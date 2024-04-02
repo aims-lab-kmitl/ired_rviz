@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>kbot_rviz</name>
+  <name>ired_rviz</name>
   <version>1.0.0</version>
   <description>
-    Package for debug kbot with rviz
+    Package for debug ired with rviz
   </description>
   <maintainer email="james.ttpts@gmail.com">Thitipong T.</maintainer>
   <license>BSD</license>
